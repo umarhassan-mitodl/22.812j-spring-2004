@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Electricity"
+    ],
+    [
+      "Energy",
+      "Nuclear"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering",
+      "Nuclear Systems, Policy, and Economics"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ]
+  ],
+  "legacy_uid": "02a366ca-29f2-77f2-9d61-d0a654d6c569",
+  "instructors": {
+    "content": [
+      "c618ed7a-945d-ca54-bee3-505059ec11c4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4833c044-7dd7-d692-c07d-30137c6f1309",
+    "website": "22-812j-managing-nuclear-technology-spring-2004"
+  },
+  "course_title": "Managing Nuclear Technology",
+  "course_description": "An examination of current economic and policy issues in the electric power industry, focusing on nuclear power and its fuel cycle. Introduces techniques for analyzing private and public policy alternatives, including discounted cash flow methods and other techniques in engineering economics. Application to specific problem areas, including nuclear waste management and weapons proliferation. Other topics include deregulation and restructuring in the electric power industry.\n",
+  "department_numbers": [
+    "22",
+    "ESD"
+  ],
+  "extra_course_numbers": "ESD.163J",
+  "primary_course_number": "22.812J",
+  "course_image_thumbnail": {
+    "content": "1699ac5a-7b4c-047e-4717-7ec761b4e023",
+    "website": "22-812j-managing-nuclear-technology-spring-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "48a0dead-55a2-4b33-9681-3fc5c9b21f35",
+  "site_short_id": "22.812j-spring-2004",
+  "site_url_path": "courses/22-812j-managing-nuclear-technology-spring-2004",
+  "title": "Course Metadata"
+}
