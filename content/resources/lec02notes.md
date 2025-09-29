@@ -4,6 +4,8 @@ description: Supplemental handout for Lecture 2.
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/88b9392d138110ac50a70d6de146b87d_lec02notes.pdf
 file_size: 297463
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

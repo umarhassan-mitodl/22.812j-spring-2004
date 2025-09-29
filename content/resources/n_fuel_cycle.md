@@ -4,6 +4,8 @@ description: ''
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/cd2c662ba8476631c79c8b103227093a_n_fuel_cycle.pdf
 file_size: 485513
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

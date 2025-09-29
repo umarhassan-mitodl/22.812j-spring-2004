@@ -4,6 +4,8 @@ description: Notes for Lecture 14.
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/adcf76559768e7131339f5ceb8f4718c_lec14note_1.pdf
 file_size: 312995
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

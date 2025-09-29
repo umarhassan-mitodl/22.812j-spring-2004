@@ -4,6 +4,8 @@ description: Paper authored by Cass R. Sunstein.
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/0e6eadb9d2f9d956deb5ad09342df66e_sunstein_copy_1.pdf
 file_size: 300065
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

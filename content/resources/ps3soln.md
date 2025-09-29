@@ -4,6 +4,8 @@ description: Problem set solutions.
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/c496144f2e576a709ec0cba58ff10e15_ps3soln.pdf
 file_size: 208519
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
