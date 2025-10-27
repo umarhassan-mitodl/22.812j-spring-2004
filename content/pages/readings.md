@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -38,7 +36,7 @@ Introduction
 {{< tdopen >}}
 Park and Sharp-Bette (PSB). Chapter 1, pp. 3-25.  
   
-"[Financial Ratio Analysis](http://www.bizmove.com/finance/m3b3.htm)."  
+"{{% resource_link "bc9c05f6-0c53-4a04-a895-be786a287c84" "Financial Ratio Analysis" %}}."  
   
 Levitt, Arthur. _Take on the Street: What Wall Street and Corporate America Don't Want You to Know_. New York: Knopf, 2002. pp. 144-174. ISBN: 9780375421785.
 {{< tdclose >}}
@@ -200,7 +198,7 @@ Evaluating Projects under Uncertainty
 Economics of the Nuclear Fuel Cycle (I): Material Balances and Simple Cost Models
 {{< tdclose >}}
 {{< tdopen >}}
-"The Nuclear Fuel Cycle." Organisation for Economic Co-operation and Development (OECD) Nuclear Energy Agency. Chapter 3 from _The Economics of the Nuclear Fuel Cycle,_ 1994. ([PDF](http://www.nea.fr/html/ndd/reports/efc/efc02.pdf))  
+"The Nuclear Fuel Cycle." Organisation for Economic Co-operation and Development (OECD) Nuclear Energy Agency. Chapter 3 from _The Economics of the Nuclear Fuel Cycle,_ 1994. ({{% resource_link "d5578e2a-54ed-40d3-8d45-0fc923faa404" "PDF" %}})  
   
 Nuclear Engineering for an Uncertain Future
 {{< tdclose >}}
@@ -276,7 +274,7 @@ Quiz #2
 Externalities: Accounting and Regulation
 {{< tdclose >}}
 {{< tdopen >}}
-_[The Future of Nuclear Power](http://web.mit.edu/nuclearpower/) ._ pp. 53-63, 157-164.
+_{{% resource_link "8aca9f25-c7c2-4702-a438-85a6a41bc346" "The Future of Nuclear Power" %}} ._ pp. 53-63, 157-164.
 {{< tdclose >}}
 
 {{< trclose >}}

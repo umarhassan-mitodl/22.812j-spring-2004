@@ -4,8 +4,6 @@ description: Slide presentation of Lecture 11.
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/cc00b52f2f944c972cfa8848fc423732_lec11slides_1.pdf
 file_size: 337750
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

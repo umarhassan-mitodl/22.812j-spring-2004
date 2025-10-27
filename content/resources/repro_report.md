@@ -5,8 +5,6 @@ description: Report authored by Matthew Bunn, Steve Fetter, John P. Holdren, and
 file: /courses/22-812j-managing-nuclear-technology-spring-2004/13ecfb7d8c6592c3832ef41faababdfd_repro_report.pdf
 file_size: 1375021
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

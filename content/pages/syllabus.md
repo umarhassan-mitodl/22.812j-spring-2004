@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -31,7 +29,7 @@ Texts
 
 Park, Chan S., and Gunther Sharp-Bette. _Advanced Engineering Economics_. New York, NY: Wiley, 1990. ISBN: 9780471799894.
 
-MIT Nuclear Study Group. "[The Future of Nuclear Power](http://www.mit.edu/afs/athena/org/n/nuclearpower/)." Published July 29, 2003.
+MIT Nuclear Study Group. "{{% resource_link "8f7a20db-f502-4628-93b2-2ea91df26ea4" "The Future of Nuclear Power" %}}." Published July 29, 2003.
 
 Xeroxed classnotes.
 
